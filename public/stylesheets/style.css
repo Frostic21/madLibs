@@ -6,3 +6,19 @@ body {
 a {
   color: #00B7FF;
 }
+
+p{
+  background-color: antiquewhite;
+  border-radius: 10px;
+  padding: 10px;
+}
+a:hover{
+  transition-duration: 0.5s;
+  font-size: 16px;
+}
+a{
+  transition-duration: 0.5s;
+}
+body{
+  background-color: lightgoldenrodyellow;
+}
